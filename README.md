@@ -52,7 +52,7 @@ Digital infrastructure and online visibility for modern businesses.
 ---
 ### Featured Projects
 
-#### 🔐 SSH-Bruteforce-Analysis  
+#### [🔐 SSH-Bruteforce-Analysis](https://github.com/OneJooan/SSH-Bruteforce-Analysis)
 Basic SSH brute force attack analysis using Linux authentication logs and incident response principles.
 
 ---
