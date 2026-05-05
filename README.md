@@ -2,7 +2,11 @@
 
 ### I make technology work… so businesses don’t have to think about it.
 
-Technology partner focused on cybersecurity, automation and invisible infrastructure for SMEs.
+I help small businesses eliminate technical chaos through **practical cybersecurity, automation and reliable infrastructure**.
+
+From securing systems to automating repetitive work, my focus is simple:
+
+> Make technology **reliable, secure and invisible** — so you can focus on running your business.
 
 ---
 ### About
@@ -15,59 +19,81 @@ My goal is simple:
 With experience across industrial environments, systems, networking and automation, I focus on solving real business problems without unnecessary complexity.
 
 ---
+## 🧩 What I actually do (in real terms)
+
+- Secure business systems (access control, MFA, hardening)
+- Detect and analyze suspicious activity (logs, incidents, anomalies)
+- Automate repetitive workflows (reports, data handling, scripts)
+- Reduce manual work and human error
+- Improve system reliability and visibility
+
+---
 ### Protection and Evolution
 
-Cybersecurity solutions focused on prevention, visibility and risk reduction.
+Cybersecurity focused on **preventing incidents and reducing real risk**:
 
-- Security audits
-- MFA implementation
-- Linux security basics
-- Incident analysis
-- Hardening and access control
-- Security awareness
+- Security audits (identify vulnerabilities before they become problems)
+- MFA implementation (protect access points)
+- Linux hardening (secure systems by default)
+- Incident analysis (understand what happened and why)
+- Access control and permissions review
+- Basic security awareness for teams
 
 ---
 ### Infrastructure and Data
 
-Automation and invisible workflows designed to save time and reduce operational friction.  
+Automation and invisible systems designed to **save time and reduce operational friction**:
 
-- VBA automation
-- Python business automation
-- IoT monitoring
-- Business process optimization
-- Reporting workflows
-- Data organization
-
+- Business process automation (Python, VBA)
+- Automated reporting workflows
+- Data organization and cleanup
+- IoT monitoring and alerts
+- Process optimization to reduce manual work
+  
 ---
 ### Presence and Visibility
 
-Digital infrastructure and online visibility for modern businesses. 
+Digital infrastructure that supports **business credibility and performance**:
 
-- Business websites
+- Business websites (WordPress)
 - Technical SEO audits
-- WordPress hardening
+- WordPress security and hardening
 - Performance optimization
-- Digital presence improvement
+- Digital presence improvements
 
 ---
-### Featured Projects
+## 🚀 Featured Work
 
-#### [🔐 SSH-Bruteforce-Analysis](https://github.com/OneJooan/SSH-Bruteforce-Analysis)
-Basic SSH brute force attack analysis using Linux authentication logs and incident response principles.
+### 🔐 SSH Bruteforce Analysis
+Analysis of failed SSH login attempts using Linux logs.
+
+- Detect attack patterns
+- Identify suspicious IPs
+- Understand attack behavior
+- Apply basic incident response
 
 ---
-### onejooan Labs
 
-Technical experiments, scripts and practical solutions.  
-The Labs section is focused on:  
+### ⚙️ ROT Cipher Toolkit
+CLI tool to analyze and decode obfuscated text.
 
-- cybersecurity practice
-- Linux
-- automation
-- scripting
-- networking
-- AI workflows
-- infrastructure experiments
+- Brute-force decryption
+- Heuristic-based analysis
+- Useful for CTFs and basic malware analysis
+
+---
+## 🧪 onejooan Labs
+
+Practical experiments and tools focused on:
+
+- Cybersecurity analysis
+- Linux systems
+- Automation scripts
+- Networking
+- Infrastructure testing
+- AI-assisted workflows
+
+Built with a focus on **real-world applicability**, not just theory.
 
 ---
 ### Philosophy
@@ -75,14 +101,13 @@ The Labs section is focused on:
 > Technology should work like electricity: Invisible when everything works correctly.
 
 ---
-### Current Focus
+## 📚 Current Focus
 
-- Google Cybersecurity Professional Certificate
-- Security analysis
-- Automation workflows
-- SME cybersecurity
-- Incident response basics
-- Infrastructure optimization
+- Google Cybersecurity Professional Certificate (in progress)
+- Practical security analysis
+- Automation for small businesses
+- Incident response fundamentals
+- Infrastructure reliability
 
 ---
 ### Connect
