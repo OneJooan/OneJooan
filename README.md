@@ -9,6 +9,7 @@ From securing systems to automating repetitive work, my focus is simple:
 > Make technology **reliable, secure and invisible** — so you can focus on running your business.
 
 ---
+
 ### About
 
 I help small businesses reduce technological chaos through practical cybersecurity, automation and digital infrastructure solutions.  
@@ -19,6 +20,7 @@ My goal is simple:
 With experience across industrial environments, systems, networking and automation, I focus on solving real business problems without unnecessary complexity.
 
 ---
+
 ## 🧩 What I actually do (in real terms)
 
 - Secure business systems (access control, MFA, hardening)
@@ -28,7 +30,8 @@ With experience across industrial environments, systems, networking and automati
 - Improve system reliability and visibility
 
 ---
-### Protection and Evolution
+
+### 🔐 Protection and Evolution
 
 Cybersecurity focused on **preventing incidents and reducing real risk**:
 
@@ -39,8 +42,24 @@ Cybersecurity focused on **preventing incidents and reducing real risk**:
 - Access control and permissions review
 - Basic security awareness for teams
 
+#### 🔐 SSH Bruteforce Analysis
+Analysis of failed SSH login attempts using Linux logs.
+
+- Detect attack patterns
+- Identify suspicious IPs
+- Understand attack behavior
+- Apply basic incident response
+
+#### ⚙️ ROT Cipher Toolkit
+CLI tool to analyze and decode obfuscated text.
+
+- Analyze suspicious text inputs  
+- Detect simple obfuscation techniques  
+- Support basic threat analysis workflows
+
 ---
-### Infrastructure and Data
+
+### ⚙️ Infrastructure and Data
 
 Automation and invisible systems designed to **save time and reduce operational friction**:
 
@@ -51,7 +70,8 @@ Automation and invisible systems designed to **save time and reduce operational 
 - Process optimization to reduce manual work
   
 ---
-### Presence and Visibility
+
+### 🌐 Presence and Visibility
 
 Digital infrastructure that supports **business credibility and performance**:
 
@@ -62,26 +82,7 @@ Digital infrastructure that supports **business credibility and performance**:
 - Digital presence improvements
 
 ---
-## 🚀 Featured Work
 
-### 🔐 SSH Bruteforce Analysis
-Analysis of failed SSH login attempts using Linux logs.
-
-- Detect attack patterns
-- Identify suspicious IPs
-- Understand attack behavior
-- Apply basic incident response
-
----
-
-### ⚙️ ROT Cipher Toolkit
-CLI tool to analyze and decode obfuscated text.
-
-- Brute-force decryption
-- Heuristic-based analysis
-- Useful for CTFs and basic malware analysis
-
----
 ## 🧪 onejooan Labs
 
 Practical experiments and tools focused on:
@@ -96,11 +97,13 @@ Practical experiments and tools focused on:
 Built with a focus on **real-world applicability**, not just theory.
 
 ---
+
 ### Philosophy
 
 > Technology should work like electricity: Invisible when everything works correctly.
 
 ---
+
 ## 📚 Current Focus
 
 - Google Cybersecurity Professional Certificate (in progress)
@@ -110,6 +113,7 @@ Built with a focus on **real-world applicability**, not just theory.
 - Infrastructure reliability
 
 ---
+
 ### Connect
 
 Building practical and reliable technology solutions for small businesses.
