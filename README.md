@@ -68,7 +68,17 @@ Automation and invisible systems designed to **save time and reduce operational 
 - Data organization and cleanup
 - IoT monitoring and alerts
 - Process optimization to reduce manual work
-  
+
+#### ⚙️ Code Style Checker
+
+Lightweight CLI tool for detecting and auto-fixing common code formatting inconsistencies across development projects.
+
+- Recursive project scanning
+- Auto-fix support
+- Multi-language file support
+- Indentation consistency checks
+- Developer workflow automation
+
 ---
 
 ### 🌐 Presence and Visibility
